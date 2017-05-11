@@ -1,12 +1,32 @@
 # Ignore thumbnails created by windows 
 Thumbs.db 
 
-frameworks/
+frameworks/cocos2d-x/
 runtime/
 tools/
 simulator/
 .settings/
 .cocos-project.json
+
+# Debug files
+[Dd]ebug.win32/
+OpenAL32.dll
+ScarbDontCrash.exe
+glew32.dll
+iconv.dll
+libcocos2d.dll
+libcurl.dll
+libmpg123.dll
+libogg.dll
+libtiff.dll
+libvorbis.dll
+libvorbisfile.dll
+lua51.dll
+luasrc.config
+luasrc.luaproj
+sqlite3.dll
+zlib1.dll
+
 
 #########################################################################
 
