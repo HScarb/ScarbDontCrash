@@ -1,7 +1,7 @@
 # Ignore thumbnails created by windows 
 Thumbs.db 
 
-frameworks/cocos2d-x/
+frameworks/
 runtime/
 tools/
 simulator/
